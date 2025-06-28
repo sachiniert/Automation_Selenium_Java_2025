@@ -24,6 +24,7 @@ public class Method2 {
 		Add(); // Static method call directly in static method no need to create obj
 		Method2 obj = new Method2(); // Non static method that reason create obj
 		obj.mul();
+		System.out.println("Checking only for github ");
 
 	}
 

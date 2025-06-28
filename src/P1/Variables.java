@@ -24,6 +24,7 @@ public class Variables {
 		System.out.println(obj.rollnumber);//100
 		System.out.println(obj.address);
 		System.out.println(address);
+		System.out.println("nnjdngnj");
 				
 
 	}
