@@ -13,7 +13,7 @@ public class ForgotPassword {
 		
 		driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/locatorspractice/");
-		driver.manage().window().maximize();
+		driver.manage().window().minimize();
 		ForgotPwd(forgottenPassword);
 		driver.close();
 		
