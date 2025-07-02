@@ -13,6 +13,7 @@ public class C4 extends C1{
 		login();
 		C1.login();
 		System.out.println(C1.x);
+		System.out.println("add footer example for github use");
 
 	}
 
