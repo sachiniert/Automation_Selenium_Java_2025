@@ -15,6 +15,7 @@ public class ForgotPassword {
 		driver.get("https://rahulshettyacademy.com/locatorspractice/");
 		driver.manage().window().maximize();
 		ForgotPwd(forgottenPassword);
+		driver.close();
 		
 		
 		
