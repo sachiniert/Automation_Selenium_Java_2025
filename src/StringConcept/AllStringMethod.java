@@ -18,7 +18,7 @@ public class AllStringMethod {
 	        System.out.println("Contains 'World'? " + str.contains("World"));
 
 	        // 5. equals()
-	        System.out.println("Equals 'Hello World'? " + str.equals("Hello= World"));
+	        System.out.println("Equals 'Hello World'? " + str.equals("Hello World"));
 
 	        // 6. equalsIgnoreCase()
 	        System.out.println("Equals Ignore Case 'hello world'? " + str.equalsIgnoreCase("hello world"));

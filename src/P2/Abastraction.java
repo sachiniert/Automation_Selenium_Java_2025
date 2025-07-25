@@ -12,8 +12,7 @@ public abstract class Abastraction {
 
 	public static void submit()
 	{
-		
-		System.out.println("code is needed");
+				System.out.println("code is needed");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
