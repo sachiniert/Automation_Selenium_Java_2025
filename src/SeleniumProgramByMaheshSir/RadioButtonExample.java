@@ -11,6 +11,7 @@ public class RadioButtonExample {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrom.driver", "C:\\Users\\sy945\\DriverJuly2025\\chromedriver-win64\\chromedriver-win64.exe");
 
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://demo.guru99.com/test/radio.html");

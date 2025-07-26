@@ -1,6 +1,7 @@
 package P2;
 
-public class C1 {
+
+public class C1  {
 	public static int x=10;
 	/* here we can change public to (private,protected and default) and check where is erroe comes or not this is acces modifires rule
 	 ex1:- private void login()

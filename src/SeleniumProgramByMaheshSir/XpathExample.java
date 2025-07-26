@@ -13,6 +13,7 @@ public class XpathExample {
 
 	public static WebDriver driver;
 	public static void main(String[] args) {
+		System.setProperty("webdriver.chrom.driver", "C:\\Users\\sy945\\DriverJuly2025\\chromedriver-win64\\chromedriver-win64.exe");
 		driver = new ChromeDriver();
 		driver.get("https://www.fb.com");
 		driver.findElement(startWith).sendKeys("sachin@gmail.com");
